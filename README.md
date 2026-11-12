@@ -15,7 +15,7 @@
 
 Estudante de **Ciência da Computação na UFPE** e **Gerente de Software no CITi**, a empresa júnior do Centro de Informática, onde lidero um squad de 4 pessoas na entrega de um projeto para cliente externo: da definição de arquitetura e stack ao contato direto com o cliente e à mentoria técnica do time.
 
-Antes disso, atuei como desenvolvedor e **Technical Advisor** da área de Desenvolvimento, construindo front-ends com **React e Tailwind CSS** e APIs REST em **Node.js**. Também conduzi provas de conceito e implantei o **TanStack Query** como padrão de gerenciamento de estado assíncrono, reduzindo código repetido nos projetos.
+Antes disso, atuei como desenvolvedor e **Tech Lead** da área de Desenvolvimento, construindo front-ends com **React e Tailwind CSS** e APIs REST em **Node.js**. Também conduzi provas de conceito e implantei o **TanStack Query** como padrão de gerenciamento de estado assíncrono, reduzindo código repetido nos projetos.
 
 Gosto de unir código bem feito com boa comunicação: acredito que um software de qualidade nasce de requisitos bem entendidos, boas práticas e um time que evolui junto.
 
